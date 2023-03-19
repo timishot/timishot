@@ -1,7 +1,9 @@
 
 ### Hi there 👋, Timishot
 #### SOFTWARE ENGINEERING
-I'm Timilehin from Nigeria, and I'm SOFTWARE ENGINEER, I really enjoy Learning languages like Html(yes, i know it a markup language😄) C , javascript and python, I also enjoy developing responsive sites.
+Hey there, recruiters and developers! I'm Timilehin, a Nigerian software engineer with a passion for languages - both the spoken and the coding kind. HTML (the markup language, I know, I know 😄), C, JavaScript, and Python are my go-to's, and developing responsive sites is my jam. Because let's be real, a site that's not responsive is like a clingy ex - it just won't let go.
+
+But I digress. My love for coding languages and responsive design runs deep, and I'm always excited to collaborate with like-minded individuals. So if you're looking for a talented, fun-loving software engineer to join your team, look no further! Let's create something awesome together.
 
 Skills: / HTML / CSS/JAVASCRIPT/C/PYTHON/
 
