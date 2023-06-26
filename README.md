@@ -5,7 +5,7 @@ Hey there, recruiters and developers! I'm Timilehin, a Nigerian software enginee
 
 But I digress. My love for coding languages and responsive design runs deep, and I'm always excited to collaborate with like-minded individuals. So if you're looking for a talented, fun-loving software engineer to join your team, look no further! Let's create something awesome together.
 
-Skills: / HTML / CSS/JAVASCRIPT/C/PYTHON/
+Skills: / HTML / CSS/JAVASCRIPT/C/PYTHON/SHELL
 
 - 🔭 I’m currently working on this page. 
 - 😄 Pronouns: HE/HIS 
